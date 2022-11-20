@@ -1,0 +1,15 @@
+D:\github\HomeworkWeek13\Homework2\obj\Debug\net6.0\Homework2.csproj.AssemblyReference.cache
+D:\github\HomeworkWeek13\Homework2\obj\Debug\net6.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\HomeworkWeek13\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfoInputs.cache
+D:\github\HomeworkWeek13\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfo.cs
+D:\github\HomeworkWeek13\Homework2\obj\Debug\net6.0\Homework2.csproj.CoreCompileInputs.cache
+D:\github\HomeworkWeek13\Homework2\bin\Debug\net6.0\Homework2.exe
+D:\github\HomeworkWeek13\Homework2\bin\Debug\net6.0\Homework2.deps.json
+D:\github\HomeworkWeek13\Homework2\bin\Debug\net6.0\Homework2.runtimeconfig.json
+D:\github\HomeworkWeek13\Homework2\bin\Debug\net6.0\Homework2.dll
+D:\github\HomeworkWeek13\Homework2\bin\Debug\net6.0\Homework2.pdb
+D:\github\HomeworkWeek13\Homework2\obj\Debug\net6.0\Homework2.dll
+D:\github\HomeworkWeek13\Homework2\obj\Debug\net6.0\refint\Homework2.dll
+D:\github\HomeworkWeek13\Homework2\obj\Debug\net6.0\Homework2.pdb
+D:\github\HomeworkWeek13\Homework2\obj\Debug\net6.0\Homework2.genruntimeconfig.cache
+D:\github\HomeworkWeek13\Homework2\obj\Debug\net6.0\ref\Homework2.dll
